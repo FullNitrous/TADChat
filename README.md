@@ -8,4 +8,4 @@
 /_/ /_/  |_/_____/\____/_/ /_/\__,_/\__/
 ```                 
 
-This is just some gay shit i made idk.                      
+Talk with Terry A Davis through the data left in memory addresses after allocating memory.                      
